@@ -1,0 +1,14 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "es el primer proyecto para Open Bootcamp de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hola-mundo"
+  ],
+  "author": "Itati Romero",
+  "license": "ISC"
+}
